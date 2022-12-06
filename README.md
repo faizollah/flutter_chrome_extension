@@ -1,16 +1,9 @@
-# chrome_extension
+# A Guide on Firebase Security Rules
 
-A new Flutter project.
+Not only you need to find a suitable database for your application, you need to secure the database. A vulnerable database is a security risk that enables unauthorized access to the data in the database. In this video, we go through security rules you can write for firebase, which is a very popular database. We talk about types of security rules and how to implement them. Some examples are also provided in this video.
+For detailed explanation, please refer to this video:
 
-## Getting Started
+[![A Guide on Firebase Security Rules](http://img.youtube.com/vi/gUkUlksdYT8/0.jpg)](https://www.youtube.com/watch?v=gUkUlksdYT8 "A Guide on Firebase Security Rules")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### If this was helpful, please consider treating me a cup of coffee.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dknowledge)
